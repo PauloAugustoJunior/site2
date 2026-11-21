@@ -1,7 +1,7 @@
 @use './site';
 @font-face {
   font-family: Space;
-  src: url('/fonts/space.ttf') format('truetype');
+  src: url('fonts/space.ttf') format('truetype');
   font-style: normal;
   font-weight: 400 700;
   font-display: swap;
@@ -153,7 +153,7 @@ summary:focus-visible {
 
 @font-face {
   font-family: Mono;
-  src: url('/fonts/mono.ttf');
+  src: url('fonts/mono.ttf');
   font-style: normal;
   font-weight: 100 800;
   font-display: swap;
